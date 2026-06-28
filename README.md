@@ -1,7 +1,7 @@
 # <div align="center">Stanislas Nouemou</div>
 
 <div align="center">
-  <img src="assets/profile-placeholder.svg" alt="Stanislas Nouemou" width="160" height="160" style="border-radius: 50%;" />
+  <img src="assets/PP.png" alt="Stanislas Nouemou" width="160" height="160" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
