@@ -64,7 +64,7 @@ Je conçois des systèmes robustes, scalables et orientés vers l'impact, avec u
 | **Mantota** | Réseau publicitaire 100% performance Afrique francophone | Laravel 12, Vue 3, MySQL, Tailwind v3 | En production (v1.0), v2.0 en dev | [odsystem-bit/mantota](https://github.com/odsystem-bit/mantota) |
 | **AuSecours** | Système d'alerte d'urgence géolocalisé | Node.js, PostgreSQL, PostGIS, Flutter | En développement | [odsystem-bit/ausecours](https://github.com/odsystem-bit/ausecours) |
 | **OD Device** | Protection anti-vol et localisation mobile | Kotlin, Node.js, PostgreSQL, React | En développement | [odsystem-bit/oddevice](https://github.com/odsystem-bit/oddevice) |
-| **BZ Santé** | Gestion numérique des zones sanitaires | Flutter, Node.js, SQLite, PostgreSQL | En développement | [odsystem-bit/bz-sante](https://github.com/odsystem-bit/bz-sante) |
+| **BZ Santé / N'NAKI** | Portail souverain d'IA médicale et gestion sanitaire du Bénin | HTML/CSS/JS, Chart.js, NestJS (v2.0) | En production (v1.0) | [odsystem-bit/bz-sante](https://github.com/odsystem-bit/bz-sante) |
 | **MonParc** | Inventaire IT automatisé multi-zone avec GLPI | PowerShell, Node.js, MySQL, Android | En production (v5.2) | [odsystem-bit/monparc](https://github.com/odsystem-bit/monparc) |
 | **OD Fortress** | VPN et sécurité réseau | Kotlin, WireGuard, Node.js, PostgreSQL | En développement | [odsystem-bit/odfortress](https://github.com/odsystem-bit/odfortress) |
 
