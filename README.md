@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>Entrepreneur Technologique | Software Engineer | AI Builder</h3>
+  <h3>Founder of OD SYSTÈME | Software Engineer | AI Entrepreneur</h3>
   <p>
     <img src="https://img.shields.io/badge/Based%20in-Bénin-1D3C6E?style=flat-square" alt="Localisation" />
     <img src="https://img.shields.io/badge/Focus-Africa%20Impact-2A8A1A?style=flat-square" alt="Focus" />
@@ -88,5 +88,5 @@ Je crois en une technologie locale, pertinente et accessible, qui répond aux v�
 ---
 
 <div align="center">
-  <sub>Conçu avec soin pour les recruteurs, investisseurs et programmes comme MEST AI Startup.</sub>
+  <sub>Conçu avec soin pour les recruteurs et investisseurs.</sub>
 </div>
