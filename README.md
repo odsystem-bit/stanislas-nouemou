@@ -61,12 +61,12 @@ Je conçois des systèmes robustes, scalables et orientés vers l'impact, avec u
 
 | Projet | Description | Technologies | Statut | Lien |
 | :--- | :--- | :--- | :--- | :--- |
-| **Mantota** | *À compléter* | *À compléter* | *À compléter* | *À compléter* |
-| **MonParc** | *À compléter* | *À compléter* | *À compléter* | *À compléter* |
-| **BZ Santé** | *À compléter* | *À compléter* | *À compléter* | *À compléter* |
-| **OD Device** | *À compléter* | *À compléter* | *À compléter* | *À compléter* |
-| **AuSecours** | *À compléter* | *À compléter* | *À compléter* | *À compléter* |
-| **OD Fortress** | *À compléter* | *À compléter* | *À compléter* | *À compléter* |
+| **Mantota** | Plateforme d'influence marketing, e-commerce et UGC | Laravel, Vue 3, MySQL, TailwindCSS | En production | [odsystem-bit/mantota](https://github.com/odsystem-bit/mantota) |
+| **AuSecours** | Système d'alerte d'urgence géolocalisé | Node.js, PostgreSQL, PostGIS, Flutter | En développement | [odsystem-bit/ausecours](https://github.com/odsystem-bit/ausecours) |
+| **OD Device** | Protection anti-vol et localisation mobile | Kotlin, Node.js, PostgreSQL, React | En développement | [odsystem-bit/oddevice](https://github.com/odsystem-bit/oddevice) |
+| **BZ Santé** | Gestion numérique des zones sanitaires | Flutter, Node.js, SQLite, PostgreSQL | En développement | [odsystem-bit/bz-sante](https://github.com/odsystem-bit/bz-sante) |
+| **MonParc** | Inventaire automatisé du parc informatique | PowerShell, Node.js, MySQL, Vue.js | En développement | [odsystem-bit/monparc](https://github.com/odsystem-bit/monparc) |
+| **OD Fortress** | VPN et sécurité réseau | Kotlin, WireGuard, Node.js, PostgreSQL | En développement | [odsystem-bit/odfortress](https://github.com/odsystem-bit/odfortress) |
 
 ---
 
