@@ -61,7 +61,7 @@ Je conçois des systèmes robustes, scalables et orientés vers l'impact, avec u
 
 | Projet | Description | Technologies | Statut | Lien |
 | :--- | :--- | :--- | :--- | :--- |
-| **Mantota** | Plateforme d'influence marketing, e-commerce et UGC | Laravel, Vue 3, MySQL, TailwindCSS | En production | [odsystem-bit/mantota](https://github.com/odsystem-bit/mantota) |
+| **Mantota** | Réseau publicitaire 100% performance Afrique francophone | Laravel 12, Vue 3, MySQL, Tailwind v3 | En production (v1.0), v2.0 en dev | [odsystem-bit/mantota](https://github.com/odsystem-bit/mantota) |
 | **AuSecours** | Système d'alerte d'urgence géolocalisé | Node.js, PostgreSQL, PostGIS, Flutter | En développement | [odsystem-bit/ausecours](https://github.com/odsystem-bit/ausecours) |
 | **OD Device** | Protection anti-vol et localisation mobile | Kotlin, Node.js, PostgreSQL, React | En développement | [odsystem-bit/oddevice](https://github.com/odsystem-bit/oddevice) |
 | **BZ Santé** | Gestion numérique des zones sanitaires | Flutter, Node.js, SQLite, PostgreSQL | En développement | [odsystem-bit/bz-sante](https://github.com/odsystem-bit/bz-sante) |
