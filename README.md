@@ -1,92 +1,209 @@
-# <div align="center">Stanislas Nouemou</div>
-
 <div align="center">
-  <img src="assets/PP.png" alt="Stanislas Nouemou" width="160" height="160" style="border-radius: 50%;" />
+
+<img src="assets/PP.png" alt="Stanislas Nouemou" width="150" height="150" style="border-radius:50%;border:4px solid #14C7B5;" />
+
+# Stanislas Nouemou
+
+### Fondateur d'OD SYSTÈME • Ingénieur logiciel • Entrepreneur IA
+
+<img src="https://img.shields.io/badge/📍_Bénin-14C7B5?style=for-the-badge&logoColor=white&color=14C7B5" />
+<img src="https://img.shields.io/badge/Impact-Afrique-0E8E82?style=for-the-badge&logoColor=white&color=0E8E82" />
+<img src="https://img.shields.io/badge/Disponible_pour-Collaborations-14C7B5?style=for-the-badge&logoColor=white&color=14C7B5" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-14C7B5?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14C7B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-14C7B5?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
 </div>
 
-<div align="center">
-  <h3>Founder of OD SYSTÈME | Software Engineer | AI Entrepreneur</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Based%20in-Bénin-1D3C6E?style=flat-square" alt="Localisation" />
-    <img src="https://img.shields.io/badge/Focus-Africa%20Impact-2A8A1A?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open%20to-Collaborations-F5A800?style=flat-square" alt="Open to collaborations" />
-  </p>
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14C7B5&height=120&section=header" width="100%"/>
 
-## À propos de moi
+## Qui je suis
 
-Je développe des solutions numériques adaptées aux réalités africaines.
+Je conçois des produits numériques pensés pour les réalités africaines, à la croisée du génie logiciel, de l'infrastructure et de l'intelligence artificielle.
 
-Mon objectif est de créer des produits utilisant l'intelligence artificielle pour résoudre des problèmes concrets dans les domaines du **commerce**, de la **santé**, de la **sécurité** et de la **gestion des entreprises**.
+Mon travail s'articule autour de quatre piliers : le commerce, la santé, la sécurité et la gestion d'entreprise. Sur chacun, l'objectif reste le même, construire des systèmes robustes et évolutifs qui produisent un impact réel sur le terrain, pas seulement sur le papier.
 
-Je conçois des systèmes robustes, scalables et orientés vers l'impact, avec une approche alliant ingénierie logicielle, infrastructure et intelligence artificielle.
+À travers OD SYSTÈME, je porte plusieurs produits du concept jusqu'à la production, avec une attention particulière à la scalabilité et à la pertinence locale.
 
----
+<br/>
 
-## Compétences
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Langages & Frameworks
+### 🧭 Ma vision
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Une technologie qui part du terrain plutôt que de l'imiter. Locale dans ses usages, accessible dans son coût, durable dans son impact. C'est cette conviction qui guide chaque produit que je construis, qu'il s'agisse d'accompagner une entreprise, un service public ou simplement le quotidien des populations.
 
-### Bases de données & Backend
+</td>
+<td width="50%" valign="top">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### ⚙️ Ma méthode
 
-### DevOps & Systèmes
+Ingénierie logicielle rigoureuse, infrastructure pensée pour la charge réelle, intelligence artificielle utilisée pour résoudre, pas pour impressionner. Chaque produit naît d'un besoin concret avant de devenir une ligne de code.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Réseaux & Intelligence Artificielle
+<br/>
 
-![Networking](https://img.shields.io/badge/Networking-1D3C6E?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-2A8A1A?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5A800?style=for-the-badge)
-
----
-
-## Mes projets
-
-| Projet | Description | Technologies | Statut | Lien |
-| :--- | :--- | :--- | :--- | :--- |
-| **Mantota** | Réseau publicitaire, social commerce et IA commerciale (OD IA) pour l'Afrique francophone. Intégration OEIL INTELLIGENTE pour collecter les données d'entraînement de l'IA. | Laravel 12, Vue 3, MySQL, Tailwind v3, NestJS (OI) | En production (v1.0), v2.0 en dev | [odsystem-bit/mantota](https://github.com/odsystem-bit/mantota) |
-| **AuSecours** | Système d'alerte d'urgence géolocalisé | Node.js, PostgreSQL, PostGIS, Flutter | En développement | [odsystem-bit/ausecours](https://github.com/odsystem-bit/ausecours) |
-| **OD Device** | Protection anti-vol et localisation mobile | Kotlin, Node.js, PostgreSQL, React | En développement | [odsystem-bit/oddevice](https://github.com/odsystem-bit/oddevice) |
-| **BZ Santé / BZ+** | Système de saisie et supervision des données sanitaires pour les Bureaux de Zone (ATZ) | Node.js, Express, SQLite, Flutter, EJS | En production (v2.1.0) | [odsystem-bit/bz-sante](https://github.com/odsystem-bit/bz-sante) |
-| **MonParc** | Inventaire IT automatisé multi-zone avec GLPI | PowerShell, Node.js, MySQL, Android | En production (v5.2) | [odsystem-bit/monparc](https://github.com/odsystem-bit/monparc) |
-| **OD Fortress** | VPN et sécurité réseau | Kotlin, WireGuard, Node.js, PostgreSQL | En développement | [odsystem-bit/odfortress](https://github.com/odsystem-bit/odfortress) |
-
----
-
-## Vision
-
-Ma vision est de construire des solutions technologiques capables d'avoir un impact durable en Afrique.
-
-Je crois en une technologie locale, pertinente et accessible, qui répond aux véritables besoins du terrain et accompagne la transformation des entreprises, des services publics et du quotidien des populations.
-
----
-
-## Contact
-
-- **Email** : [À compléter](mailto:)
-- **LinkedIn** : [À compléter](https://linkedin.com/in/)
-- **GitHub** : [stanislas-nouemou](https://github.com/odsystem-bit/stanislas-nouemou)
-- **Site web** : [À compléter](https://)
-
----
+## Compétences techniques
 
 <div align="center">
-  <sub>Conçu avec soin pour les recruteurs et investisseurs.</sub>
+
+**Langages et frameworks**
+
+<img src="https://img.shields.io/badge/Flutter-14C7B5?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-14C7B5?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-14C7B5?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-14C7B5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-14C7B5?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-14C7B5?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-14C7B5?style=for-the-badge&logo=nestjs&logoColor=white" />
+
+**Bases de données et backend**
+
+<img src="https://img.shields.io/badge/MySQL-0E8E82?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0E8E82?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostGIS-0E8E82?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-0E8E82?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-0E8E82?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-0E8E82?style=for-the-badge&logo=node.js&logoColor=white" />
+
+**Systèmes, DevOps et réseaux**
+
+<img src="https://img.shields.io/badge/Docker-1AB8AB?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1AB8AB?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-1AB8AB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-1AB8AB?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-1AB8AB?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/WireGuard-1AB8AB?style=for-the-badge&logo=wireguard&logoColor=white" />
+
+**Intelligence artificielle**
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0A6B61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0A6B61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IA%20Commerciale-0A6B61?style=for-the-badge" />
+
 </div>
+
+<br/>
+
+## Projets en vedette
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛍️ Mantota
+
+Réseau publicitaire et social commerce propulsé par l'IA, conçu pour l'Afrique francophone. Intègre OEIL INTELLIGENTE, un module dédié à la collecte des données d'entraînement de l'IA.
+
+`Laravel 12` `Vue 3` `MySQL` `Tailwind` `NestJS`
+
+**En production · v1.0** · v2.0 en développement
+
+[![Dépôt](https://img.shields.io/badge/Voir_le_dépôt-14C7B5?style=flat-square&logo=github&logoColor=white)](https://github.com/odsystem-bit/mantota)
+
+</td>
+<td width="33%" valign="top">
+
+### 🚨 AuSecours
+
+Système d'alerte d'urgence géolocalisé, pensé pour une réaction rapide et coordonnée en situation critique.
+
+`Node.js` `PostgreSQL` `PostGIS` `Flutter`
+
+**En développement**
+
+[![Dépôt](https://img.shields.io/badge/Voir_le_dépôt-14C7B5?style=flat-square&logo=github&logoColor=white)](https://github.com/odsystem-bit/ausecours)
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 OD Device
+
+Solution de protection antivol et de localisation mobile en temps réel.
+
+`Kotlin` `Node.js` `PostgreSQL` `React`
+
+**En développement**
+
+[![Dépôt](https://img.shields.io/badge/Voir_le_dépôt-14C7B5?style=flat-square&logo=github&logoColor=white)](https://github.com/odsystem-bit/oddevice)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🏥 BZ Santé / BZ+
+
+Plateforme de saisie et de supervision des données sanitaires destinée aux Bureaux de Zone (ATZ).
+
+`Node.js` `Express` `SQLite` `Flutter` `EJS`
+
+**En production · v2.1.0**
+
+[![Dépôt](https://img.shields.io/badge/Voir_le_dépôt-14C7B5?style=flat-square&logo=github&logoColor=white)](https://github.com/odsystem-bit/bz-sante)
+
+</td>
+<td width="33%" valign="top">
+
+### 🖥️ MonParc
+
+Inventaire IT automatisé multizone, intégré à GLPI pour un suivi centralisé du parc informatique.
+
+`PowerShell` `Node.js` `MySQL` `Android`
+
+**En production · v5.2**
+
+[![Dépôt](https://img.shields.io/badge/Voir_le_dépôt-14C7B5?style=flat-square&logo=github&logoColor=white)](https://github.com/odsystem-bit/monparc)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔒 OD Fortress
+
+Solution VPN et sécurité réseau bâtie sur WireGuard pour des connexions chiffrées et fiables.
+
+`Kotlin` `WireGuard` `Node.js` `PostgreSQL`
+
+**En développement**
+
+[![Dépôt](https://img.shields.io/badge/Voir_le_dépôt-14C7B5?style=flat-square&logo=github&logoColor=white)](https://github.com/odsystem-bit/odfortress)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=14C7B5&height=2&section=header" width="100%"/>
+
+## Restons en contact
+
+<div align="center">
+
+Toujours ouvert à discuter d'un projet, d'une idée ou d'une collaboration.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-14C7B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14C7B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-14C7B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odsystem-bit)
+[![Site web](https://img.shields.io/badge/Site_web-14C7B5?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+
+<br/>
+<br/>
+
+<sub>OD SYSTÈME · Construire une technologie qui part de l'Afrique, pour l'Afrique</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14C7B5&height=100&section=footer" width="100%"/>
