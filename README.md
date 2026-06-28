@@ -82,7 +82,7 @@ Je crois en une technologie locale, pertinente et accessible, qui répond aux v�
 
 - **Email** : [À compléter](mailto:)
 - **LinkedIn** : [À compléter](https://linkedin.com/in/)
-- **GitHub** : [stanislas-nouemou](https://github.com/stanislas-nouemou)
+- **GitHub** : [stanislas-nouemou](https://github.com/odsystem-bit/stanislas-nouemou)
 - **Site web** : [À compléter](https://)
 
 ---
