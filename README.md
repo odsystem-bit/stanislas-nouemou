@@ -195,7 +195,7 @@ Toujours ouvert à discuter d'un projet, d'une idée ou d'une collaboration.
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-14C7B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouemoustan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14C7B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/stanislas-n-ouemou-581881200/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14C7B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/stanislas-n-ouemou-581881200/])
 [![GitHub](https://img.shields.io/badge/GitHub-14C7B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odsystem-bit)
 [![Site web](https://img.shields.io/badge/Site_web-14C7B5?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
